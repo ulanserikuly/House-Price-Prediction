@@ -12,4 +12,4 @@ The dataset contains 20640 entries and 10 variables.
 * Median Income
 * Median House Value
 * Ocean Proximity
-** Median House Value is to be predicted in this problem.
+**Median House Value is** to be predicted in this problem.
